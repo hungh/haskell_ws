@@ -1,1 +1,1 @@
-# haskell-project
+# haskell exercises 
